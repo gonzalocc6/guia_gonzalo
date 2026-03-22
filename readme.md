@@ -39,6 +39,5 @@ python manage.py runserver
 ```
 
 ## Autor
-Tu Nombre
+Gonzalo
 ## Licencia
-MIT
